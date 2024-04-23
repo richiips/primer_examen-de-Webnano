@@ -1,2 +1,2 @@
 despliegue:
-https://Webnano.github.io
+https://Webnano.github.io/primer_examen/
