@@ -1,2 +1,2 @@
 DEPLOY: 
-https://Webnano.github.io.git/primer_examen/
+https://Webnano.github.io./primer_examen/
