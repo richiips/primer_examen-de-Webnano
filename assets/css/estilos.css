@@ -20,6 +20,10 @@ body {
   background-position: left;
 }
 
+.hero-text{
+  font-size: 64px;
+}
+
 /* Mis trabajos */
 
 #Mis-portafolio .image-top {
